@@ -1,0 +1,4 @@
+Employee name : Manoj
+Employee designation : Data_Analyst
+Employee date of birth(dd/mm/yy) : 01/01/1997
+Employee salary : 100000

@@ -1,2 +1,2 @@
 # IIIT_PUNE_Classroom_Codes
-These are codes written as part of assignments given in respective classrooms.
+These are codes written by me as part of assignments given in respective classrooms.
